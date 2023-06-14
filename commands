@@ -1,0 +1,1 @@
+az deployment group create -g 1-16b3807c-playground-sandbox -f /workspaces/vscode-remote-try-bicep/Bicep-cloud-guru/vmFuncVar.bicep
